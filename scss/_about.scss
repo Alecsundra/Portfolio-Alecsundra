@@ -10,7 +10,7 @@
           rgba($primary-color, 0.9),
           rgba($primary-color, 0.3)
         ),
-        url('../img/profilepic.jpg') center top;
+        url('../img/img.jpg') center top;
       background-size: cover;
       display: flex;
       flex-direction: column;
@@ -39,7 +39,8 @@
       grid-gap: 2rem;
   
       &__job {
-        background: lighten($primary-color, 20%);
+        // background: lighten($primary-color, 20%);
+        background:#4178a0;
         padding: 0.5rem;
         border-bottom: 5px solid $secondary-color;
         
