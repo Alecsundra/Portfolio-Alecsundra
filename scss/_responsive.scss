@@ -2,7 +2,9 @@
     .menu-btn {
       visibility: hidden;
     }
-  
+    .h2{
+      font-size: 0.5rem;
+    }
     .nav {
       visibility: visible;
   
@@ -27,7 +29,7 @@
     .about__bio {
       font-size: 1.5rem;
     }
-  
+
     .projects {
       &__bio-image {
         height: 40vh;
