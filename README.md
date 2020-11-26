@@ -1,2 +1,1 @@
-# Portfolio-draft
-Personal portfolio styled with Sass
+# Portfolio-draft-SCSS
